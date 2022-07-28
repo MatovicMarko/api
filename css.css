@@ -1,0 +1,57 @@
+#container {
+    margin: 0 auto;
+    padding: 2.5em;
+    width: 50%;
+    text-align: center; }
+    .container h1 {
+      margin-bottom: 1em; }
+    .container hr {
+      margin: 10px 0; }
+    .container input[type="text"] {
+      width: 200px; }
+    .container .edit_input {
+      float: left;
+      margin-right: 10px; }
+    .container #row_input {
+      width: 40px; }
+    
+      .container .user-table thead {
+        background: #000;
+        color: #fff; }
+      .container .user-table td {
+        border: 1px solid #000; }
+  
+        table, td, th {
+            border: 1px solid black;
+          }
+          th {
+            background-color: gray;
+          }
+
+          table {
+            margin-left: auto;
+            margin-right: auto;
+          }
+          
+          table {
+            text-align: center;
+          }
+          
+          td {
+            margin: 5px;
+            padding: 5px;
+          }
+
+          p {
+            margin-left: auto;
+            margin-right: auto;
+            
+          }
+          #position{
+            width: 200px;
+            display: inline-block ;
+          }
+          button{
+            border-radius: 5px;
+            text-align: center;
+        }

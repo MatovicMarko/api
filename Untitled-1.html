@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+        <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="Js.js"></script>
+    <link rel="stylesheet" type="text/css" href="css.css">
+   
+    </head>
+    <body onload="loadAdvertisements()">
+        <div id="container">
+            <div id="loginForm" style="display:block">
+                <h1> LOG IN</h1>
+                <hr>
+                <form id="loginForm">
+                    <p><label id="position">User nanme: <input type="text" id="usernameLogin"></label><span id="usernameLoginError"></span></p>
+                   <p> <label id="position">Password: <input type="password" id="passwordLogin"></label><span id="passwordLoginError"></span></p>
+                    
+                    <button type="button" id="btnLogin" onclick="loginUser()"  >Login</button>
+                    <button type="button" id="btnRegister" onclick="showRegistration()" >Registration</button>
+                </form>
+                
+            </div>
+            <div id="registerForm" style="display: none;">
+                <h1>Registration</h1>
+                <hr>
+                <form method="post" action="post/" id="registerForm" onsubmit="return registerUser()">
+                    <p><label>User name: <input type="text" id="usernameRegister"></label><span id="usernameRegError"></span></p>
+                    <p><label>Email: <input type="email" id="emailRegister"></label><span id="emailRegError"></span></p>
+                    <p><label>Password: <input type="password" id="passwordRegister"></label><span id="passwordRegError"></span></p>
+                    <p><label>Confirm password: <input type="password" id="confirmPasswordRegister"></label><span id="confirmPassRegError"></span></p>
+                    <p><button>Confirm</button></p>
+                    
+                </form>
+            </div>
+            <div id="infoForm" style="display: none;">
+                <form class="row">
+                    <div class="col-sm-6" style="display: inline;">
+                        <p id="info" ></p>
+                    </div>
+                    <div class="col-sm-6" style="display: inline;">
+                        <button id="btnLogout" onclick="logout()" >Logout</button>
+                    </div>
+                </form>
+            </div>
+            <div id="searchForm" style="display: none;">
+                <h1>Search Advertisements</h1>
+                <br>
+                <form method="post" action="post/" id="searchForm" onsubmit="return searchAdvertisements()">
+                    <label>Minimum: <input type="text" id="searchMinimum"></label>
+                    <label>Maximun: <input type="text" id="searchMaximum"></label>
+                    <button>Search</button>
+                </form>
+            </div>
+            <div id="data"></div>
+
+             <div id="kreirajForm" style="display: none;">
+                <h1>Edit</h1>
+                <br>
+                <form>
+                    <p><label>Title: <input type="text" id="title"></label></p>
+                    <p><label>Type: <input type="text" id="type"></label></p>
+                    <p><label>Construction year: <input type="text" id="constructionYear"></label></p>
+                    <p><label>Agency name: <select id="agencyName"></select></label></p>
+                    
+                    
+                    
+                    <br>
+                
+                    <div style="display: inline;">
+                        <button type="button"  onclick="changeAdv() ">Update</button>
+                    </div>
+                    <div style="display: inline;">
+                        <button  id="quitButton" onclick="return quitTable()">Esc</button>
+                    </div>
+                </form>
+            </div>
+
+
+        </div>
+
+    </body>
+</html>

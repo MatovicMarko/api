@@ -1,0 +1,71 @@
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\appsettings.Development.json
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\appsettings.json
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Advertisement Api.exe
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Advertisement Api.deps.json
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Advertisement Api.runtimeconfig.json
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Advertisement Api.runtimeconfig.dev.json
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Advertisement Api.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Advertisement Api.pdb
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\AutoMapper.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Humanizer.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.csproj.AssemblyReference.cache
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.AssemblyInfoInputs.cache
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.AssemblyInfo.cs
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.csproj.CoreCompileInputs.cache
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.MvcApplicationPartsAssemblyInfo.cs
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.MvcApplicationPartsAssemblyInfo.cache
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\scopedcss\bundle\Advertisement Api.styles.css
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\staticwebassets\Advertisement Api.StaticWebAssets.Manifest.cache
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.RazorTargetAssemblyInfo.cache
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.csproj.CopyComplete
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\refint\Advertisement Api.dll
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.pdb
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\Advertisement Api.genruntimeconfig.cache
+C:\.net kurs\Advertisement Api\Advertisement Api\obj\Debug\net5.0\ref\Advertisement Api.dll
